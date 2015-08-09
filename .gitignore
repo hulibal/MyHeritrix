@@ -1,0 +1,14 @@
+#class file
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+jobs/
+.settings/
+logs/
+build/
+
+# Package Files #
+
+hs_err_pid*
+*.prefs
